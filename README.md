@@ -56,5 +56,5 @@ TV advertising had the biggest impact on sales.
 Newspaper ads were less effective compared to TV and radio.
 Linear regression provided good predictions, but there’s always room for improvement!
 
-Why These Projects Matter
+**Why These Projects Matter:**
 These projects helped me explore different machine learning concepts—classification, regression, feature engineering, and data visualization. Each dataset tells a story, and machine learning helps us uncover insights that might not be obvious at first glance.
