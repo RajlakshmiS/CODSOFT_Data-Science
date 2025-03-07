@@ -9,6 +9,7 @@ Projects Included
 Each project includes data cleaning, model training, and performance evaluation, so let's dive in!
 
 **TITANIC SURVIVAL PREDICTION**
+
 What's the goal?
 The Titanic dataset is famous in the world of data science. It contains information about passengers who either survived or didn't make it. Our task? Use machine learning to predict survival based on passenger details like age, gender, ticket class, and more.
 
@@ -24,6 +25,7 @@ Family size had an impact—being alone reduced survival chances.
 Random Forest performed well, capturing key patterns in survival.
 
 **IRIS FLOWER CLASSIFICATION**
+
 What's the goal?
 This classic dataset contains measurements of three flower species: Setosa, Versicolor, and Virginica. The challenge? Train a model to classify flowers based on petal and sepal dimensions.
 
@@ -39,6 +41,7 @@ The model achieved high accuracy, making it reliable for new flower predictions.
 Data visualization helped us understand clear separations between species.
 
 **SALES PREDICTION USING PYTHON**
+
 What's the goal?
 Ever wondered how much a company will sell based on TV, Radio, and Newspaper advertising? This project uses linear regression to predict sales revenue based on ad spend.
 
